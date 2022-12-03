@@ -16,6 +16,6 @@ In order to train the model, backpropagation and stochastic gradient descent hav
 The model achieves an accuracy of 87.98%.
 
 
-###References
+### References
 
 http://neuralnetworksanddeeplearning.com/index.html
