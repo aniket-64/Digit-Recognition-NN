@@ -13,5 +13,5 @@ The net has been trained using the training set of the MNIST database containing
   
 In order to train the model, backpropagation and stochastic gradient descent have been used.
 
-The model achieves an accuracy of 60.34%.
+The model achieves an accuracy of 87.98%.
 
